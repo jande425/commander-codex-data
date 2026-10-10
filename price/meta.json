@@ -1,0 +1,1 @@
+{"date":"2026-10-10","step":3,"days":90,"shard":3,"shardedBy":"oracleId","shards":4093,"count":102507,"cardKingdomLive":99270,"providers":[{"key":"usd","base":"USD"},{"key":"ck","base":"USD"},{"key":"eur","base":"EUR"},{"key":"ckb","base":"USD"}],"source":"MTGJSON AllPrices"}
